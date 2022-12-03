@@ -1,0 +1,3 @@
+To run this project you first need install all dependecies using the requirements.txt
+This project is in the host: 127.0.0.1 using de port 9000
+You need to add an endpoint_poke_api and an ability_name in your header request
